@@ -6,6 +6,8 @@
 *.class
 
 target/
+.mvn/wrapper/
+.settings/
 # Log file
 *.log
 
